@@ -1,7 +1,11 @@
-h5{
-    text-align: center;
+.card{
+    margin: auto;
+    margin-bottom: 3rem;
+    padding: 1%;
+    border: 0px;
 }
 
-.card{
-    margin-top: 1em;
+p{
+    color: black;
+    font-weight: bolder;
 }

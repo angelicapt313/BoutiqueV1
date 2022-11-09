@@ -7,6 +7,9 @@ import { HomeComponent } from './components/home/home.component';
 import { HeaderComponent } from './components/header/header.component';
 import { BodyComponent } from './components/body/body.component';
 import { FooterComponent } from './components/footer/footer.component';
+import { CarouselInitialComponent } from './components/carousel-initial/carousel-initial.component';
+import { CardNecklaceComponent } from './components/card-necklace/card-necklace.component';
+import { CardRingsComponent } from './components/card-rings/card-rings.component';
 
 @NgModule({
   declarations: [
@@ -14,7 +17,10 @@ import { FooterComponent } from './components/footer/footer.component';
     HomeComponent,
     HeaderComponent,
     BodyComponent,
-    FooterComponent
+    FooterComponent,
+    CarouselInitialComponent,
+    CardNecklaceComponent,
+    CardRingsComponent
   ],
   imports: [
     BrowserModule,

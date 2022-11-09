@@ -5,7 +5,21 @@
     border: 0px;
 }
 
-p{
+button,p{
     color: black;
     font-weight: bolder;
+}
+
+.imgModal{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+li{
+    margin-left: 2px;
+}
+
+.newIn{
+    text-align: center;
 }
